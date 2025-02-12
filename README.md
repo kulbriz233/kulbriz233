@@ -26,15 +26,24 @@ I'm a cybersecurity enthusiast, front-end-focused software developer, and securi
 
 ### Badges
 
-<b>My GitHub Stats</b>
+## My GitHub Stats  
 
-<a href="http://www.github.com/kulbriz233"><img src="https://github-readme-stats.vercel.app/api?username=kulbriz233&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="kulbriz233's GitHub stats" /></a>
+<a href="http://www.github.com/kulbriz233">
+  <img src="https://github-readme-stats.vercel.app/api?username=kulbriz233&show_icons=true&count_private=true&title_color=00e6e6&text_color=ffffff&icon_color=ffcc00&bg_color=0d1117&hide_border=true" alt="kulbriz233's GitHub stats" />
+</a>  
 
-<a href="http://www.github.com/kulbriz233"><img src="https://github-readme-streak-stats.herokuapp.com/?user=kulbriz233&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/kulbriz233">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulbriz233&stroke=ffffff&background=0d1117&ring=00e6e6&fire=ffcc00&currStreakNum=ffffff&currStreakLabel=00e6e6&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+</a>  
 
-<a href="http://www.github.com/kulbriz233"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=kulbriz233&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/kulbriz233">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kulbriz233&bg_color=0d1117&color=ffffff&line=00e6e6&point=ffcc00&area_color=0d1117&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+</a>  
 
-<a href="https://github.com/kulbriz233" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbriz233&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/kulbriz233" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbriz233&langs_count=10&title_color=00e6e6&text_color=ffffff&icon_color=ffcc00&bg_color=0d1117&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>  
+
 
 <b>Top Repositories</b>
 
