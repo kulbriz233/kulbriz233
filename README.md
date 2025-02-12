@@ -45,6 +45,16 @@ I'm a cybersecurity enthusiast, front-end-focused software developer, and securi
 </a>  
 
 
-<b>Top Repositories</b>
+## Top Repositories  
 
-<div width="100%" align="center"><a href="https://github.com/kulbriz233/Tip_Joourney_1" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbriz233&repo=Tip_Joourney_1&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/kulbriz233/Learning_Python" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbriz233&repo=Learning_Python&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center">
+  <a href="https://github.com/kulbriz233/Tip_Joourney_1" align="left">
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbriz233&repo=Tip_Joourney_1&title_color=00e6e6&text_color=ffffff&icon_color=ffcc00&bg_color=0d1117&hide_border=true&locale=en" />
+  </a>
+  <a href="https://github.com/kulbriz233/Learning_Python" align="right">
+    <img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=kulbriz233&repo=Learning_Python&title_color=00e6e6&text_color=ffffff&icon_color=ffcc00&bg_color=0d1117&hide_border=true&locale=en" />
+  </a>
+</div>  
+
+<br /><br /><br /><br /><br /><br /><br />
+
