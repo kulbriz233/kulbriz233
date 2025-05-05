@@ -60,16 +60,17 @@ That’s why I’m eager to work on projects like <strong>[insert project types 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kulbriz233&show_icons=true&theme=tokyonight" alt="kulbriz233's GitHub stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kulbriz233&theme=tokyonight" alt="kulbriz233's GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="top langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kulbriz233&layout=compact&theme=tokyonight" alt="kulbriz233's Top Languages"/>
 </p>
+
 
 ---
 
